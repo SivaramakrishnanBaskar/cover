@@ -130,10 +130,10 @@ Write HTML and CSS Code for desigining book cover page and execute them
 ```
 
 ## Output:
-![Output](./bgi.png)
+![Output](./outcv.png)
 
 ## HTML Validator
 ![HTML Validator](./covervld.png)
 
 ## Result:
-Write your result
+The program for desigining book cover page usng HTML and CSS is executed sucessfully
